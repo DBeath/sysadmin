@@ -49,3 +49,4 @@ tclark:x:1003:
 jbloggs:x:1004:
 mysql:x:106:
 puppet:x:107:
+nagios:x:1005:
